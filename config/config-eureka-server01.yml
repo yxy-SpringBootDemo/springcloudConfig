@@ -11,13 +11,13 @@ logging:
         eureka: OFF
         discovery: OFF
 
-management:
-  endpoints:
-    web:
-      exposure:
-        include: '*'
-    health:
-      show-details:  ALWAYS
+#management:
+#  endpoints:
+#    web:
+#      exposure:
+#        include: '*'
+#    health:
+#      show-details:  ALWAYS
 
 eureka:
   instance:
