@@ -33,3 +33,8 @@ eureka:
    service-url:
     defaultZone: http://server2:12222/eureka/
 #eureka.client.service-url.defaultZone=http://${eureka.instance.hostname}:${server.port}/eureka/
+data:
+  env: localhost-dev-editserver01
+  user:
+    username: fengzheng-devserver01
+    password: password-dev
