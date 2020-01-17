@@ -26,5 +26,5 @@ spring:
 data:
  env: localhost-dev-edit
  user:
-  username: fengzheng-dev
-  password: password-dev
+  username: fengzheng-dev1
+  password: password-dev1
