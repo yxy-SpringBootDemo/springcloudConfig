@@ -11,7 +11,7 @@ eureka:
 #spring.application.name= SPRING-CLIENT-01
 
 spring:
-  profiles: dev
+  profiles: prod
   datasource:
     url: jdbc:mysql://127.0.0.1:3306/managerdb?serverTimezone=Asia/Shanghai&useUnicode=true&characterEncoding=utf-8&autoReconnect=true&useSSL=false
     username: root
