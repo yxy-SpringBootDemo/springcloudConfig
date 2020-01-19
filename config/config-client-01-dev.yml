@@ -1,5 +1,5 @@
-server:
-  port: 10001
+#server:
+#  port: 10001
 #单节点eureka server配置
 #eureka.client.serviceUrl.defaultZone = http://localhost:12345/eureka/
 #多节点eureka server配置
@@ -29,7 +29,7 @@ spring:
 
 #测试数据
 data:
- env: localhost-dev2-edit
+ env: localhost-dev-edit
  user:
-  username: fengzheng-dev2
-  password: password-dev2
+  username: fengzheng-dev
+  password: password-dev
