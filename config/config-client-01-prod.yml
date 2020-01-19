@@ -29,7 +29,7 @@ spring:
 
 #测试数据
 data:
- env: localhost-prod1-edit
+ env: localhost-prod2-edit
  user:
-  username: fengzheng-prod1
-  password: password-prod1
+  username: fengzheng-prod2
+  password: password-prod2
