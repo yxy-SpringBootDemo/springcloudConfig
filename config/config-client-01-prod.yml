@@ -1,6 +1,5 @@
-#server:
-#  port: 10002
-
+server:
+  port: 10002
 
 spring:
   profiles: prod
